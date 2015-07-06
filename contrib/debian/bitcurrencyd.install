@@ -1,0 +1,2 @@
+debian/bin/bitcurrencyd usr/bin
+src/bitcurrencyd usr/lib/bitcurrency
